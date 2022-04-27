@@ -45,7 +45,7 @@ body {
 #character {
   width: 40px;
   height: 50px;
-  background: url(img/charecterOP.png) bottom center no-repeat;
+  background: url(img/characterOP.png) bottom center no-repeat;
   background-size: 100%;
   position: absolute;
   top: 100px;
