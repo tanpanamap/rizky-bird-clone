@@ -28,7 +28,7 @@ setInterval(function () {
 }, 10);
 
 function jump() {
-  jumping = 0;
+  jumping = 1g;
   let jumpCount = 0;
   var jumpInterval = setInterval(function () {
     var characterTop = parseInt(window.getComputedStyle(character).getPropertyValue('top'));
